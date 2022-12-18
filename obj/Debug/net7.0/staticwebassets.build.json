@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SggFBLM+vYLgcDKSNaC+6PnywvsWF7W/NB+GGeT6o08=",
+  "Source": "app-mvc",
+  "BasePath": "_content/app-mvc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
