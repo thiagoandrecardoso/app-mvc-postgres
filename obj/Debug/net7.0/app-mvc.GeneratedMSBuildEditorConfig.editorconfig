@@ -19,3 +19,15 @@ build_property._RazorSourceGeneratorDebug =
 [/Users/thiagocardoso/Documents/Git/C\#/app-mvc/views/home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = dmlld3MvaG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/thiagocardoso/Documents/Git/C\#/app-mvc/views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/thiagocardoso/Documents/Git/C\#/app-mvc/views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/thiagocardoso/Documents/Git/C\#/app-mvc/views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
