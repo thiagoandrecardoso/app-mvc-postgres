@@ -9,9 +9,9 @@ namespace app_mvc.Controllers
         public IActionResult Index()
         {
             Aluno _aluno = new Aluno();
-            AlunoConnection alunoConnection = new AlunoConnection(new ConnectionPostgres());
-
             List<Aluno> alunoList = new List<Aluno>();
+            
+            AlunoConnection alunoConnection = new AlunoConnection(new ConnectionPostgres());
 
             alunoList = alunoConnection.getStudentyList();
 
