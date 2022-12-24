@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Mj7sy5IbAytENwoY2sgWkjpGNNveyglYr3GeM9BxgBj6K7uR8IkOf2LlfbfeJOhxixlp3esR8EiFhBwofRva4Q==",
+  "dgSpecHash": "YcfiSXmLuTkG3XZZEjwUq0YfCNLIBS8heYxsqDQ7Ss50Dk/lC/wWK46qmRYNjK6Jix8SjYNpxp5WyQZ13Gkomw==",
   "success": true,
   "projectFilePath": "/Users/thiagocardoso/Documents/Git/C#/app-mvc/app-mvc.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/thiagocardoso/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.1/microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "/Users/thiagocardoso/.nuget/packages/npgsql/7.0.0-preview.4/npgsql.7.0.0-preview.4.nupkg.sha512",
+    "/Users/thiagocardoso/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

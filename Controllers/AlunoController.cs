@@ -1,4 +1,5 @@
 using app_mvc.Models;
+using app_mvc.Models.conn;
 using Microsoft.AspNetCore.Mvc;
 
 namespace app_mvc.Controllers
@@ -8,9 +9,13 @@ namespace app_mvc.Controllers
         public IActionResult Index()
         {
             Aluno _aluno = new Aluno();
-            _aluno.CriarAluno();
+            AlunoConnection alunoConnection = new AlunoConnection(new ConnectionPostgres());
 
-            return View(_aluno.BuscarAluno());
+            List<Aluno> alunoList = new List<Aluno>();
+
+            alunoList = alunoConnection.getStudentyList();
+
+            return View(alunoList);
         }
     }
 }

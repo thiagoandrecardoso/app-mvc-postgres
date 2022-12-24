@@ -27,3 +27,5 @@
 /Users/thiagocardoso/Documents/Git/C#/app-mvc/obj/Debug/net7.0/app-mvc.genruntimeconfig.cache
 /Users/thiagocardoso/Documents/Git/C#/app-mvc/obj/Debug/net7.0/ref/app-mvc.dll
 /Users/thiagocardoso/Documents/Git/C#/app-mvc/bin/Debug/net7.0/app-mvc.staticwebassets.runtime.json
+/Users/thiagocardoso/Documents/Git/C#/app-mvc/bin/Debug/net7.0/Npgsql.dll
+/Users/thiagocardoso/Documents/Git/C#/app-mvc/obj/Debug/net7.0/app-mvc.csproj.CopyComplete
