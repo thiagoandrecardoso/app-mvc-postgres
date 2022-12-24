@@ -6,7 +6,7 @@ using Npgsql;
 
 namespace app_mvc.Models.conn
 {
-    public class AlunoConnection
+    public class AlunoConnection : IAlunoConnection
     {
         
         public IConnection? _connection;
