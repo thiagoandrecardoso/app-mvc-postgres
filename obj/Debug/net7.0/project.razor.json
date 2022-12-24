@@ -16560,6 +16560,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/thiagocardoso/Documents/Git/C#/app-mvc/views/Aluno/Index.cshtml",
+      "TargetPath": "views\\Aluno\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/thiagocardoso/Documents/Git/C#/app-mvc/views/_ViewImports.cshtml",
       "TargetPath": "views\\_ViewImports.cshtml",
       "FileKind": "mvc"
