@@ -11,7 +11,7 @@ namespace app_mvc.Models.conn
         
         public IConnection? _connection;
 
-        public AlunoConnection(ConnectionPostgres connection)
+        public AlunoConnection(IConnection connection)
         {
             _connection = connection;
         }
